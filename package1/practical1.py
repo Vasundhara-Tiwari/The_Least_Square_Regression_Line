@@ -9,3 +9,7 @@ sum_y = sum(y)
 
 x_square = x*x
 xy = x*y
+
+sum_xy = sum(xy)
+sum_x_square = sum(x_square)
+
