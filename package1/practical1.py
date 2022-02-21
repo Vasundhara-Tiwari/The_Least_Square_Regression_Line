@@ -32,3 +32,4 @@ plt.plot(x, y_cap)
 plt.xlabel("X-axis")
 plt.ylabel("Y-axis")
 
+plt.show()
