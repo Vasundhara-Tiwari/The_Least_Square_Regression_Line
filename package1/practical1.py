@@ -26,3 +26,5 @@ y_cap = beta1 * x - beta0
 
 print(y_cap)
 print(x)
+
+plt.plot(x, y_cap)
