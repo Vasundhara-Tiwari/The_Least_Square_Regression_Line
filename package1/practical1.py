@@ -18,3 +18,6 @@ SSxy = sum_xy - (1 / len(x) * sum_x * sum_y)
 
 x_bar = sum_x / len(x)
 y_bar = sum_y / len(y)
+
+beta1 = SSxy / SSxx
+beta0 = y_bar - beta1 * x
