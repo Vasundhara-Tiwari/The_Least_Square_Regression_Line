@@ -15,3 +15,6 @@ sum_x_square = sum(x_square)
 
 SSxx = sum_x_square - (1 / len(x) * sum_x * sum_x)
 SSxy = sum_xy - (1 / len(x) * sum_x * sum_y)
+
+x_bar = sum_x / len(x)
+y_bar = sum_y / len(y)
