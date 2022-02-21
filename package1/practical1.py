@@ -28,3 +28,7 @@ print(y_cap)
 print(x)
 
 plt.plot(x, y_cap)
+
+plt.xlabel("X-axis")
+plt.ylabel("Y-axis")
+
