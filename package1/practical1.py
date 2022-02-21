@@ -21,3 +21,5 @@ y_bar = sum_y / len(y)
 
 beta1 = SSxy / SSxx
 beta0 = y_bar - beta1 * x
+
+y_cap = beta1 * x - beta0
