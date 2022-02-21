@@ -13,3 +13,5 @@ xy = x*y
 sum_xy = sum(xy)
 sum_x_square = sum(x_square)
 
+SSxx = sum_x_square - (1 / len(x) * sum_x * sum_x)
+SSxy = sum_xy - (1 / len(x) * sum_x * sum_y)
